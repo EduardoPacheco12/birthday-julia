@@ -23,6 +23,12 @@
     justify-content: space-around;
     align-items: center;
 }
+
+.text > p {
+    font-family: 'Edu TAS Beginner';
+    font-size: 26px;
+    width: 45vw;
+}
   
 .polaroid {
     background: #fff;
@@ -45,7 +51,7 @@
 }
   
 .item {
-    width: 30%;
+    width: 30vw;
     margin-top: 2rem;
     filter: grayscale(100%);
     display: flex;
