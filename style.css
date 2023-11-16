@@ -6,8 +6,26 @@
 .title {
     display: flex;
     justify-content: center;
+    text-align: center;
     font-family: "Birthstone";
     font-size: 67px;
+}
+
+.musicPlayer {
+    display: flex;
+    justify-content: center;
+}
+
+.musicPlayer > button {
+    background-color: #fff;
+    border-color: #fff;
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    font-family: "Birthstone";
+    font-size: 26px;
+    color:#d4ace1;
+    cursor: pointer;
 }
 
 .wrapper {
