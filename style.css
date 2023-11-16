@@ -155,3 +155,13 @@
     box-shadow: 0 1rem 3rem rgba(0,0,0,0.2);
     transition: all 0.35s;
 }
+
+@media screen and (max-width: 768px) {
+    .caption {
+        font-size: 1.2rem;
+        text-align: center;
+        line-height: 1em;
+        background-color: #fff;
+        font-family: "Birthstone";
+    }
+}
