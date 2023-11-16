@@ -157,6 +157,12 @@
 }
 
 @media screen and (max-width: 768px) {
+    .text > p {
+        font-family: 'Edu TAS Beginner';
+        font-size: 18px;
+        width: 45vw;
+    }
+
     .caption {
         font-size: 1.2rem;
         text-align: center;
